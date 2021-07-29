@@ -7,8 +7,12 @@
 - 📫 How to reach me: 
 - mail: fear2604less@gmail.com
 - ⚡ Fun fact: I'm Russian
-<!--
-**MaksimSerebryakov/MaksimSerebryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/maksimserebryakov/'>
+  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=maksimserebryakov&skills=Vue,C%2B%2B,C%23,SCSS,angular,batchfile,c,C%23,coffeescript,dart,go,html,haxe,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vueSvelte&width=820'>
+  </a>
+
+</details>
