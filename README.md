@@ -6,7 +6,6 @@
 - 💬 Ask me about ideas
 - 📫 How to reach me: 
 - mail: fear2604less@gmail.com
-- ⚡ Fun fact: I'm Russian
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
