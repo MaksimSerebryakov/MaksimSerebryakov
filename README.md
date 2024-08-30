@@ -1,8 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on some projects :)
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Haxe
 - 💬 Ask me about ideas
 - 📫 How to reach me: 
 - mail: fear2604less@gmail.com
